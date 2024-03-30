@@ -1,3 +1,3 @@
 @echo off
-C:\Users\sonfi\AppData\Local\Programs\Python\Python310\python.exe "C:\Users\sonfi\OneDrive\Desktop\news_automater.py" %*
+python_path path_of_file %*
 pause
