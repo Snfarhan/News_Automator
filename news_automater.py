@@ -2,7 +2,7 @@ import requests
 from sys import argv
 
 
-API_KEY = '4e70dd8652cf47eaa32630487a0b38c6'
+API_KEY = #Your own api key
 URL = ('https://newsapi.org/v2/top-headlines')
 
 def get_articles_by_category_country(category,country):
